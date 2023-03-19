@@ -4,5 +4,10 @@ public class Merge_conflict {
         System.out.println("I just wanna be an Automation QA!");
         System.out.println("I just wanna be ok!");
         System.out.println("How are you doing?");
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+        System.out.println("4");
+        System.out.println("5");
     }
 }
