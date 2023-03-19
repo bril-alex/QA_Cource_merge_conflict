@@ -3,5 +3,6 @@ public class Merge_conflict {
         System.out.println("Hello world!");
         System.out.println("I just wanna be an Automation QA!");
         System.out.println("I just wanna be ok!");
+        System.out.println("How are you doing?");
     }
 }
