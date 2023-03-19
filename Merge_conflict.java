@@ -5,5 +5,6 @@ public class Merge_conflict {
         System.out.println("I just wanna be ok!");
         System.out.println("How are you doing?");
         System.out.println("1");
+        System.out.println("2");
     }
 }
